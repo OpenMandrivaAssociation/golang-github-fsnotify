@@ -6,7 +6,7 @@
 # https://github.com/fsnotify/fsnotify
 %global goipath		github.com/fsnotify/fsnotify
 %global forgeurl	https://github.com/fsnotify/fsnotify
-Version:		1.7.0
+Version:		1.8.0
 
 %gometa
 
